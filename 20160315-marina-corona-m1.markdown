@@ -212,7 +212,7 @@ According to the Feedback application:
 
 ### DTR Memo
 
-*
+* https://github.com/marinacor1/Marina_corona/blob/master/dtr_black_thursday.markdown
 
 ### Blog
 http://marinacorona.com/
