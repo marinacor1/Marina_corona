@@ -219,10 +219,10 @@ http://marinacorona.com/
 
 ### Pull Requests
 
-*
+* https://github.com/marinacor1/BlackThursday/pull/41
 
-*
+* https://github.com/marinacor1/BlackThursday/pull/42
 
 ### Project ReadMe
 
-*
+* https://github.com/marinacor1/Battleship
