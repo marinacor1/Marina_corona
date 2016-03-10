@@ -213,6 +213,8 @@ Repo: https://github.com/weilandia/goldberg_posse_challenges
 
 * Claudia Kiesenhofer: I really enjoyed working with you. I hadn't got that far in the exercise with the former partner as you had, so I needed a bit to catch up. I appreciated that you gave me the time for that and let me figure out things you already knew but also gave suggestions how to move on. We switched off with typing and figuring out the next steps even though you seemed to be way more familiar with the task list. Your way of communicating ideas and next step was very structured and clear which made it easy for me to follow you. Even though the timeframe for this pair work was very short and felt a bit rushed I learned a lot by suggesting and implementing solutions and also by implementing your suggestions. Thank you.
 
+* Nick Weiland: I’ve seen such an awesome improvement in both your Ruby skill and confidence this module. All the times I worked with you over the past few weeks I was super impressed with your workflow and ruby logic.  I recommend continuing to reinforce your understanding how your code gets processed, similar to how we broke down the recursion  that was taking place in Bubble Sort on paper. You’re going to rock Mod 2!
+
 * Drew Thompson: We had good back and forth additions to the code.  Our understanding of different concepts led to better, more efficient code.
 
 ### Playing a Part
@@ -232,7 +234,7 @@ Repo: https://github.com/weilandia/goldberg_posse_challenges
 * https://github.com/marinacor1/Marina_corona/blob/master/dtr_black_thursday.markdown
 
 ### Blog
-http://marinacorona.com/
+* http://marinacorona.com/
 
 ### Pull Requests
 
