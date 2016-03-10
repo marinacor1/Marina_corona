@@ -245,3 +245,19 @@ Repo: https://github.com/weilandia/goldberg_posse_challenges
 ### Project ReadMe
 
 * https://github.com/marinacor1/Battleship
+
+### Notes from Black Thursday Debrief
+
+* Things that went well: Complimentary styles: Marina is good at testing and project planning and Kami code and debugging. Pretty sustainable work load. Communication was strong. Initial architecture was strong. Keeping stuff on branches and communicating with each before merge to master.
+
+* Things that we could work on: Collaborating more on fundamental stuff (rather than splitting jobs). Github was confusing and caused some bugs when we would merge. Mental breaks during long work hours.
+
+* Things that didn't get done: Refactoring was a big struggle because we pushed back our end date and there needed to be more collaboration. We didn't work together as much. Miscommunication with work on the weekend. Redoing stuff. Figuring out how to do the weekend stuff?
+
+* Organizational constraints: needing to leave the school building/ working on the weekend
+
+* What existing techniques or approaches from past projects enhanced or enabled our performance on this project? I learned from Josh, drawing out the architecture of the project before writing anything.
+
+* Could time pressures have been alleviated by organizing the work differently? Communication. The greatest chunk of work was done separately and that hurt us.
+
+* Challenges: Spec harness, the spec harness was not very clear. 
