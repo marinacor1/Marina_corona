@@ -17,11 +17,22 @@ My goals for this module are:
 
 ### End of Module Assessment
 
-* Ruby Syntax: 3
-* Rails Basics: 3
-* Javascript Basics: 3
-* Workflow: 4
-* Collaboration: 3
+Notes:
+
+* Really good workflow and organization.
+* Good testing instincts.
+* I liked how you based the test on the spec, but maybe it could be a bit more granular, but you recognized it.
+* Used the writing of tests to help gain understanding of the problem.
+* Remembered to run tests before writing the code, good anticipation of errors.
+
+Instructor: Mike  
+
+* Ruby Syntax: 3 Developer is able to write Ruby with some debugging of fundamental concepts
+* Completion and Progress: 3 Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+* Testing: 3 Developer writes tests that are effective validation of functionality, but don't drive the design
+* Workflow: 4 Developer is a master of their tools, efficiently moving between phases of development
+* Collaboration: 4 Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+* Enumerable & Collections: 3 Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
@@ -137,7 +148,6 @@ Notes:
 - Good at getting past walls. You don't get frustrated,
   or you're hiding it well.
 
-
 ## Team Projects
 
 I participated in the following team projects:
@@ -159,13 +169,25 @@ Notes:
 * Test- Driven Development: 4
 * Breaking Logic into Components: 4
 
+#### Black Thursday
+
+* [GitHub URL] https://github.com/marinacor1/HTTPYYKM
+* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown
+
+In this project, my partner Kami and I built a relational database that can parse data from CSV data, build relationships, link data and find specific information, like best item for merchant or rank merchants by revenue.
+
+Evaluator: Mike
+
+Notes:
+
+* Overall Functionality:
+* Fundamental Ruby & Style:
+* Test- Driven Development:
+* Breaking Logic into Components:
+
 ### Feedback to Me
 
-In the previous module feedback from my peers encouraged me to ask for help
-more frequently rather than get stuck and stay there. This module I set a timer
-when I ran into a problem and, if I got to 20 minutes without progress, I'd ask
-for help. My feedback this module showed improvement and teammates said I'm a
-better collaborator.
+I grew a lot this module.  Choosing to do Echo over Foxtrot, was a great decision.  I was able to build more confidence as a developer and more comfort with coding.  I was especially proud of my Mastermind and HTTP projects.  The biggest areas of growth for me were testing, writing readable code and breaking large projects into smaller ones.
 
 ### Attendance
 
@@ -177,12 +199,6 @@ Repo: https://github.com/weilandia/goldberg_posse_challenges
 ## Community
 
 ### Giving Feedback
-
-According to the Feedback application:
-
-* I delivered 100% of the requested feedback
-* 96% of those submissions were approved and delivered
-* 84% of my submissions were meaningful to the recipient
 
 #### For my peers:
 
@@ -203,6 +219,7 @@ According to the Feedback application:
 
 * I co-ran a Group Retro
 * I went to the Hack Design's Meetup for Universal Mind with the Hack Design team
+* I went to a Denver.rb meetup with a group of Turingers
 * I organized a happy hour for 1602 Echo at the end of Echo
 * I helped work the Turing booth at the TFA Summit
 * I was the 'head' of Goldberg Posse and organized daily meetings
